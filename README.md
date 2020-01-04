@@ -1,2 +1,3 @@
 # dotfiles
-ettings and config i use
+
+#### 🥃 just the way i like it
