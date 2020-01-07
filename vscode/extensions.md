@@ -1,5 +1,5 @@
 # VsCode Extensions
-
+  - [Atom Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
   - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
   - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
   - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
@@ -11,5 +11,15 @@
   - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
   - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-  - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
-  
+  - [GraphQL for VSCode](https://marketplace.visualstudio.com/items?itemName=kumar-harsh.graphql-for-vscode)
+  - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+  - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+  - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+  - [Npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+  - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+  - [Prisma](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma)
+  - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+  - [Sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
+  - [styled-components-snippets](https://marketplace.visualstudio.com/items?itemName=jonkwheeler.styled-components-snippets)
+  - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
+  - [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
