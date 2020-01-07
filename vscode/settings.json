@@ -1,0 +1,74 @@
+{
+  "atomKeymap.promptV3Features": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": true,
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.fontLigatures": true,
+  "editor.detectIndentation": false,
+  "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontWeight": "400",
+  "eslint.autoFixOnSave": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "extensions.ignoreRecommendations": false,
+  "git.ignoreMissingGitWarning": true,
+  "materialTheme.accent": "Indigo",
+  "prettier.disableLanguages": [
+    "javascript",
+    "javascriptreact"
+  ],
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "python.pythonPath": "/usr/bin/python3",
+  "python.jediEnabled": false,
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.fontFamily": "Operator Mono, Consolas, 'Courier New', monospace",
+  "terminal.external.windowsExec": "C:\\WINDOWS\\System32\\bash.exe",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+  "terminal.integrated.rendererType": "dom",
+  "terminal.integrated.windowsEnableConpty": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "workbench.colorTheme": "Cobalt2",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#00334e",
+    "titleBar.inactiveBackground": "#00494e",
+    "titleBar.activeForeground": "#fff",
+    "titleBar.inactiveForeground": "#fff",
+    "activityBarBadge.background": "#5C6BC0",
+    "list.activeSelectionForeground": "#5C6BC0",
+    "list.inactiveSelectionForeground": "#5C6BC0",
+    "list.highlightForeground": "#5C6BC0",
+    "scrollbarSlider.activeBackground": "#5C6BC050",
+    "editorSuggestWidget.highlightForeground": "#5C6BC0",
+    "textLink.foreground": "#5C6BC0",
+    "progressBar.background": "#5C6BC0",
+    "pickerGroup.foreground": "#5C6BC0",
+    "tab.activeBorder": "#5C6BC0",
+    "notificationLink.foreground": "#5C6BC0",
+    "editorWidget.resizeBorder": "#5C6BC0",
+    "editorWidget.border": "#5C6BC0",
+    "settings.modifiedItemIndicator": "#5C6BC0",
+    "settings.headerForeground": "#5C6BC0",
+    "panelTitle.activeBorder": "#5C6BC0",
+    "breadcrumb.activeSelectionForeground": "#5C6BC0",
+    "menu.selectionForeground": "#5C6BC0",
+    "menubar.selectionForeground": "#5C6BC0",
+    "editor.findMatchBorder": "#5C6BC0",
+    "selection.background": "#5C6BC040"
+  },
+  "window.doubleClickIconToClose": true,
+  "window.zoomLevel": 0,
+}
